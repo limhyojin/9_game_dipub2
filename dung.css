@@ -1,0 +1,23 @@
+#screen {
+	border:1px solid gray;
+	width:60%; height:700px;
+	display:block;
+	margin: auto;
+	text-decoration:none;
+
+	background-color:white;
+	color:#000;
+}
+
+#score {
+	position:relative;
+	top:-700px;
+	left:16%;
+	
+	background-color:transparent;
+	border:0px;
+	font-size:30px;
+	font-family: 'Press Start 2P', cursive;
+	
+	cursor:default;
+}
